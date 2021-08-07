@@ -25,8 +25,5 @@ VALUES
     ('Rodrick', 'Sims', 1, NULL),
     ('Maria', 'Sims', 2, 1),
     ('Diasia', 'McCoy', 3, NULL),
-    ('Doracio', 'Bostic', 4, 3),
-    ('Xander', 'Sims', 5, NULL),
-    ('Daymar', 'Rivera', 6, 5),
-    ('Zoe', 'Wilson', 7, NULL),
-    ('Chelsea', 'Frye', 8, 7);
+    ('Doracio', 'Bostic', 4, 3);
+    
