@@ -175,7 +175,7 @@ function addRoles() {
 
         {
           type: "list",
-          name: "depts",
+          name: "dept",
           choices: departments,
           message: "Please select your department.",
         },
