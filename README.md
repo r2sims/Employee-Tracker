@@ -13,8 +13,7 @@ Generates quality README.md files through the inquirer package on npm.
 
 file:///Users/rodricksims/Downloads/Employee%20Tracker%20Vid.gif
 
-[Link to Demo](https://drive.google.com/file/d/1msP_nTPZOlxXBe-_e3w2V5Rh6wSZIWWj/view?
-usp=sharing)
+[Link to Demo]https://drive.google.com/file/d/1msP_nTPZOlxXBe-_e3w2V5Rh6wSZIWWj/view
 
 ![demo-gif](./ReadMe-Generator-Demo.gif)
 
